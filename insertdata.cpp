@@ -12,7 +12,7 @@
 #include <QTextStream>
 
 #include <QTime>
-#include <QDateTime
+#include <QDateTime>
 
 InsertData::InsertData(QObject *parent) : QObject(parent)
 {
